@@ -25,7 +25,7 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     </head>
 
-    <body>
+    <body id="home">
         <!-- Top Bar -->
         <nav class="navbar navbar-style darkcolortheme fixed-top font-weight-bold text-uppercase">
             <div class="container-fluid">
@@ -67,7 +67,7 @@
 
         <!--Featured Image as Backdrop-->
         <div>
-            <a href=""><img class="featured" src="images/wasteland.jpg"></a>
+            <a href="http://localhost:81/web-project/part_wasteland.php"><img class="featured" src="images/wasteland.jpg"></a>
         </div>
 
         <!--Contents-->

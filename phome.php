@@ -76,7 +76,7 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] == true){
 
         <!--Featured Image as Backdrop-->
         <div>
-            <a href=""><img class="featured" src="images/wasteland.jpg"></a>
+            <a href="http://localhost:81/web-project/part_wasteland.php"><img class="featured" src="images/wasteland.jpg"></a>
         </div>
 
         <!--Contents-->
